@@ -1,0 +1,3 @@
+Este é um jogo feito por Lucas Santana e está protegido por direitos autorais.
+Não o plage-e!
+especifique o caminho dos arquivos extraidos para C:\SubControl\
